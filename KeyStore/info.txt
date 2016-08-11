@@ -1,0 +1,13 @@
+keystore password:
+00000000
+
+Alias:
+1q2w3e4r
+
+Valid:
+25 year
+
+
+Certificate fingerprints:
+MD5 : F2:33:0A:4B:45:E7:4E:2D:54:CD:72:29:0D:07:28:9D
+SHA1: D6:C8:FC:29:6F:50:3D:EE:DD:36:7A:76:23:B9:7A:A7:06:0D:75:41

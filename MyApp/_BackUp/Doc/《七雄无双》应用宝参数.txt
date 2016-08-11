@@ -1,0 +1,16 @@
+[手Q] AppId：1105332189
+Appkey：XDLyqqD3yYHNz9r4
+
+[微信] AppId：wx2494776da74da632
+Appkey：203eba963304272bb9ffa8dcb9dda268
+
+
+
+
+
+
+MSDK KEY:b6864e190319c71922d571337b8d6c7d
+手Q AppId:1104965145
+手Q Appkey:r2krevcrdBtBsyga
+微信 AppId:wxbbd67fda7f55e12d
+微信 Appkey:ce804c29c3f6aeddd9d3fe3849372452
